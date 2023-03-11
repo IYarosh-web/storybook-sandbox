@@ -1,0 +1,11 @@
+.button {
+   padding: var(--size-base) var(--size-4x);
+
+   &_size_small {
+      padding: var(--size-0_5x) var(--size-2x);
+   }
+
+   &_size_large {
+      padding: var(--size-2x) var(--size-8x);
+   }
+}
